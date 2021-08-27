@@ -1,0 +1,1 @@
+A graphical view of stock closing price and volume
